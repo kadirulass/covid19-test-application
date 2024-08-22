@@ -15,28 +15,23 @@ Geliştirme Ortamı
 Python ve Flask Kurulumu: Python 3 ve Flask kütüphanesini yükleyin.
 
 bash
-Kodu kopyala
 pip install flask pandas requests
 Gerekli Paketler: Projeyi çalıştırmak için gerekli Python paketlerini yükleyin.
 
 bash
-Kodu kopyala
 pip install -r requirements.txt
 Proje Dosyaları: Proje dosyalarını indirin veya klonlayın.
 
 bash
-Kodu kopyala
 git clone <repo-url>
 Veritabanı Başlatma: Flask uygulamasını başlatmadan önce veritabanını oluşturun.
 
 bash
-Kodu kopyala
 python app.py
 Uygulama Çalıştırma
 Uygulamayı Başlatma: Flask uygulamasını başlatın.
 
 bash
-Kodu kopyala
 python app.py
 Tarayıcıda Görüntüleme: Tarayıcınızda http://127.0.0.1:5000 adresine gidin.
 
