@@ -49,3 +49,7 @@ Sorunlar veya katkılarınız varsa, GitHub Issues sayfasını ziyaret edebilirs
 
 Lisans
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını kontrol edin.
+
+Uygulama web adresi:https://kadoo49.pythonanywhere.com/
+Kullanıcı adı:kadoo49
+Şifre:Kadir4959
